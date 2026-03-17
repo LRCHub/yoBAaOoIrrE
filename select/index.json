@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "嬉しいことも悲しいことも",
+  "base_artist": "パスピエ",
+  "createdAt": "2026-03-17T22:30:50.384522Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "嬉しいことも悲しいことも",
+      "artist": "パスピエ",
+      "has_synced": false,
+      "path": "select/pl_01_嬉しいことも悲しいことも_パスピエ.txt"
+    }
+  ]
+}
